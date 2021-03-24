@@ -167,193 +167,11 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Rename EHC1 to EH01 (USB)</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<false/>
-				<key>Find</key>
-				<data>RUhDMQ==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>RUgwMQ==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data>RFNEVA==</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Rename EHC2 to EH02 (USB)</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<false/>
-				<key>Find</key>
-				<data>RUhDMg==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>RUgwMg==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data>RFNEVA==</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Rename EUSB to EH01 (USB)</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<false/>
-				<key>Find</key>
-				<data>RVVTQg==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>RUgwMQ==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data>RFNEVA==</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Rename USBE to EH02 (USB)</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<false/>
-				<key>Find</key>
-				<data>VVNCRQ==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>RUgwMg==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data>RFNEVA==</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Rename XHCI to XHC (USB)</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<false/>
-				<key>Find</key>
-				<data>WEhDSQ==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>WEhDXw==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data>RFNEVA==</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Rename XHC1 to XHC (USB)</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<false/>
-				<key>Find</key>
-				<data>WEhDMQ==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>WEhDXw==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data>RFNEVA==</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Rename EC0 to EC (USB Power)</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<false/>
-				<key>Find</key>
-				<data>RUMwXw==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>RUNfXw==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data>RFNEVA==</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>Rename H_EC to EC (USB Power)</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>SF9FQw==</data>
 				<key>Limit</key>
@@ -405,7 +223,7 @@
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>SEVDSQ==</data>
 				<key>Limit</key>
@@ -427,89 +245,11 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Rename MEI to IMEI (PAVP)</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<false/>
-				<key>Find</key>
-				<data>TUVJXw==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>SU1FSQ==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data>RFNEVA==</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Rename AZAL to HDEF (Audio)</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<false/>
-				<key>Find</key>
-				<data>QVpBTA==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>SERFRg==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data>RFNEVA==</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Rename HDAS to HDEF (Audio)</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<false/>
-				<key>Find</key>
-				<data>SERBUw==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>SERFRg==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data>RFNEVA==</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>Rename SAT0 to SATA (Disk)</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>U0FUMA==</data>
 				<key>Limit</key>
@@ -700,36 +440,65 @@
 		<dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
+				<key>AAPL,GfxYTile</key>
+				<data>AQAAAA==</data>
 				<key>AAPL,ig-platform-id</key>
 				<data>AAAbWQ==</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,2,0</string>
-				<key>AAPL00,override-no-connect</key>
-				<data>AP///////wAGEHycAAAAABIaAQSVHBBgAm+xp1VMniUMUFQAAAABAQEBAQEBAQEBAQEBAQEB+h5W4lAAPDAmFjYAFJsQAAAayBhW4lAAPDAmFjYAFJsQAAAaAAAA/gA5WDVHMYBCMTI1WFROAAAAAAAAQQGUABEAAAkBCiAgAFg=</data>
 				<key>device-id</key>
 				<data>FlkAAA==</data>
 				<key>device_type</key>
 				<string>VGA compatible controller</string>
-				<key>disable-external-gpu</key>
+				<key>enable-hdmi-dividers-fix</key>
 				<data>AQAAAA==</data>
 				<key>enable-hdmi20</key>
 				<data>AQAAAA==</data>
+				<key>framebuffer-con0-enable</key>
+				<integer>1</integer>
+				<key>framebuffer-con0-type</key>
+				<data>AAQAAA==</data>
+				<key>framebuffer-con1-alldata</key>
+				<data>AQUKAAAIAACHAQAAAgQKAAAIAACHAQAA/wAAAAEAAAAgAAAA</data>
+				<key>framebuffer-con1-enable</key>
+				<integer>1</integer>
+				<key>framebuffer-con1-flags</key>
+				<data>hwEAAA==</data>
+				<key>framebuffer-con1-pipe</key>
+				<data>EgAAAA==</data>
+				<key>framebuffer-con1-type</key>
+				<data>AAgAAA==</data>
 				<key>framebuffer-con2-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con2-index</key>
-				<data>/////w==</data>
+				<integer>1</integer>
+				<key>framebuffer-con2-flags</key>
+				<data>hwEAAA==</data>
+				<key>framebuffer-con2-pipe</key>
+				<data>EgAAAA==</data>
+				<key>framebuffer-con2-type</key>
+				<data>AAgAAA==</data>
 				<key>framebuffer-fbmem</key>
 				<data>AACQAA==</data>
 				<key>framebuffer-patch-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-portcount</key>
-				<data>AgAAAA==</data>
+				<integer>1</integer>
 				<key>framebuffer-stolenmem</key>
 				<data>AAAwAQ==</data>
 				<key>framebuffer-unifiedmem</key>
 				<data>AAAAgA==</data>
+				<key>hda-gfx</key>
+				<integer>0</integer>
 				<key>model</key>
-				<string>Intel HD Graphics 620</string>
+				<string>Intel UHD Graphics 620</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,31,3</string>
+				<key>device_type</key>
+				<string>Audio device</string>
+				<key>layout-id</key>
+				<integer>30</integer>
+				<key>model</key>
+				<string>Sunrise Point-LP HD Audio</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -927,7 +696,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/RtWlanU</string>
 				<key>MaxKernel</key>
@@ -945,7 +714,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/RtWlanU1827</string>
 				<key>MaxKernel</key>
@@ -981,9 +750,27 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooI2C</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/VoodooInput</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -999,7 +786,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooGPIO</string>
 				<key>MaxKernel</key>
@@ -1017,27 +804,9 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooI2CServices</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<false/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/VoodooInput</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -1053,7 +822,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooI2CHID</string>
 				<key>MaxKernel</key>
@@ -1074,24 +843,6 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooPS2Controller</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/VoodooInput</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -1128,24 +879,6 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooPS2Mouse</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/VoodooPS2Trackpad</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -1456,7 +1189,7 @@
 			<key>ThirdPartyDrives</key>
 			<false/>
 			<key>XhciPortLimit</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>Scheme</key>
 		<dict>
@@ -1577,7 +1310,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-cdfon agdpmod=pikera alcid=30 -v</string>
+				<string>-cdfon -igfxnohdmi agdpmod=pikera</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>run-efi-updater</key>
@@ -1648,9 +1381,9 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02714404QXHRPC1M</string>
+			<string>FVF930902GU0000A8</string>
 			<key>ProcessorType</key>
-			<integer>1541</integer>
+			<integer>1537</integer>
 			<key>ROM</key>
 			<data>jOxL8nAi</data>
 			<key>SpoofVendor</key>
@@ -1658,20 +1391,20 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro14,2</string>
+			<string>MacBookAir8,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02TJQZ8HV2N</string>
+			<string>FVFZ40Q6LYWM</string>
 			<key>SystemUUID</key>
-			<string>F26A6B53-10FF-4192-BE0A-BAE7643D8F3A</string>
+			<string>093A5C6C-C6DC-48BE-9E07-221DA28EF961</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
 			<key>BIOSReleaseDate</key>
-			<string>01/05/2021</string>
+			<string>01/06/2021</string>
 			<key>BIOSVendor</key>
 			<string></string>
 			<key>BIOSVersion</key>
-			<string>429.80.1.0.0</string>
+			<string>1554.80.3.0.0</string>
 			<key>BoardAssetTag</key>
 			<string>Base Board Asset Tag</string>
 			<key>BoardLocationInChassis</key>
@@ -1679,45 +1412,45 @@
 			<key>BoardManufacturer</key>
 			<string></string>
 			<key>BoardProduct</key>
-			<string>Mac-CAD6701F7CEA0921</string>
+			<string>Mac-226CB3C6A851A671</string>
 			<key>BoardSerialNumber</key>
-			<string>C02714404QXHRPC1M</string>
+			<string>FVF930902GU0000A8</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
-			<string>MacBookPro14,2</string>
+			<string>MacBookAir8,2</string>
 			<key>ChassisAssetTag</key>
 			<string>Asset Tag#</string>
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>C02TJQZ8HV2N</string>
+			<string>FVFZ40Q6LYWM</string>
 			<key>ChassisType</key>
 			<integer>9</integer>
 			<key>ChassisVersion</key>
-			<string>Mac-CAD6701F7CEA0921</string>
+			<string>Mac-226CB3C6A851A671</string>
 			<key>FirmwareFeatures</key>
-			<data>fvUP/wAAAAA=</data>
+			<data>LvSP/QAAAAA=</data>
 			<key>FirmwareFeaturesMask</key>
-			<data>f/8f/wAAAAA=</data>
+			<data>P/+f/wAAAAA=</data>
 			<key>PlatformFeature</key>
-			<integer>26</integer>
+			<integer>58</integer>
 			<key>ProcessorType</key>
-			<integer>1541</integer>
+			<integer>1537</integer>
 			<key>SmcVersion</key>
 			<data></data>
 			<key>SystemFamily</key>
-			<string>MacBook Pro</string>
+			<string>MacBook Air</string>
 			<key>SystemManufacturer</key>
 			<string></string>
 			<key>SystemProductName</key>
-			<string>MacBookPro14,2</string>
+			<string>MacBookAir8,2</string>
 			<key>SystemSKUNumber</key>
 			<string>System SKU#</string>
 			<key>SystemSerialNumber</key>
-			<string>C02TJQZ8HV2N</string>
+			<string>FVFZ40Q6LYWM</string>
 			<key>SystemUUID</key>
-			<string>F26A6B53-10FF-4192-BE0A-BAE7643D8F3A</string>
+			<string>093A5C6C-C6DC-48BE-9E07-221DA28EF961</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
@@ -1763,6 +1496,8 @@
 			<integer>20</integer>
 			<key>PlayChime</key>
 			<string>Auto</string>
+			<key>ResetTrafficClass</key>
+			<false/>
 			<key>SetupDelay</key>
 			<integer>0</integer>
 			<key>VolumeAmplifier</key>
@@ -1773,7 +1508,7 @@
 		<key>Drivers</key>
 		<array>
 			<string>OpenRuntime.efi</string>
-			<string>HfsPlus.efi</string>
+			<string>OpenHfsPlus.efi</string>
 		</array>
 		<key>Input</key>
 		<dict>
@@ -1781,8 +1516,6 @@
 			<false/>
 			<key>KeyForgetThreshold</key>
 			<integer>5</integer>
-			<key>KeyMergeThreshold</key>
-			<integer>2</integer>
 			<key>KeySupport</key>
 			<true/>
 			<key>KeySupportMode</key>
@@ -1806,6 +1539,8 @@
 			<false/>
 			<key>ForceResolution</key>
 			<false/>
+			<key>GopPassThrough</key>
+			<true/>
 			<key>IgnoreTextInGraphics</key>
 			<false/>
 			<key>ProvideConsoleGop</key>
@@ -1864,6 +1599,8 @@
 		</dict>
 		<key>Quirks</key>
 		<dict>
+			<key>ActivateHpetSupport</key>
+			<false/>
 			<key>DisableSecurityPolicy</key>
 			<false/>
 			<key>ExitBootServicesDelay</key>
