@@ -1,5 +1,9 @@
 # OpenCore-For-Dell-Latitude-5280
 
+## 2021-05-06
+
+update to opencore 0.6.9
+
 ## 2021-04-21
 
 update to opencore 0.6.8
